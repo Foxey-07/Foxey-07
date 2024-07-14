@@ -55,7 +55,13 @@ I'm a software developer with a strong passion for mobile app development, parti
 
 <br/>  
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+
+  <img src="https://raw.githubusercontent.com/Foxey-07/Foxey-07/output/snake.svg" alt="Snake animation" />
   
+  <br/><br/><br/>
+</div>
 
 <br/>  
 
