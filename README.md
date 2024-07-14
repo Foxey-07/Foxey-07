@@ -53,11 +53,11 @@ I'm a software developer with a strong passion for mobile app development, parti
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=foxey-07&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=foxey-07&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxey-07&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxey-07&theme=gotham&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
