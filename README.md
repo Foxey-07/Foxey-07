@@ -47,10 +47,10 @@ I'm a software developer with a strong passion for mobile app development, parti
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxey-07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxey-07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250" alt="languages graph"  />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foxey-07&theme=tokyonight&hide_border=false" height="180" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Foxey-07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foxey-07&theme=tokyonight&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Foxey-07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph"  />
 </div> 
 
 <br/>  
