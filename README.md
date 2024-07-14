@@ -21,14 +21,7 @@
 I'm a software developer with a strong passion for mobile app development, particularly with Flutter. I am continuously honing my skills to create outstanding user experiences in mobile applications.  
   
 
-<br/>  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
