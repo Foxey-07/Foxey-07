@@ -54,7 +54,7 @@ I'm a software developer with a strong passion for mobile app development, parti
 
 <table><tr><td valign="top" width="100%">
   
-![](https://github-readme-stats.vercel.app/api?username=Foxey-07&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Foxey-07&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
 
 
   
