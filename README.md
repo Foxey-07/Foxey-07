@@ -72,4 +72,4 @@ I'm a software developer with a strong passion for mobile app development, parti
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
