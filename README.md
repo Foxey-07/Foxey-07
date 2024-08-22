@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I'm a software developer with a strong passion for mobile app development, particularly with Flutter. I am continuously honing my skills to create outstanding user experiences in mobile applications.  
+I am a software developer with a strong interest in mobile app development, particularly with Flutter. I am dedicated to continuously improving my skills to create exceptional user experiences in mobile applications. With a focus on technical excellence and intuitive design, I aim to build functional and engaging apps. 
   
 
 
