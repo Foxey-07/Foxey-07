@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/fadrial.r" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/foxey-07" target="_blank">
+<a href="https://github.com/fadrialr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/fadrial_r" target="_blank">
@@ -47,10 +47,10 @@ I am a software developer with a strong interest in mobile app development, part
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxey-07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadrialR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250" alt="languages graph"  />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foxey-07&theme=tokyonight&hide_border=false" height="120" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Foxey-07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadrialR&theme=tokyonight&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FadrialR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph"  />
 </div> 
 
 <br/>  
@@ -60,14 +60,14 @@ I am a software developer with a strong interest in mobile app development, part
 <div>
   
 
-  <img src="https://raw.githubusercontent.com/Foxey-07/Foxey-07/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/FadrialR/FadrialR/output/snake.svg" alt="Snake animation" />
   
   <br/><br/><br/>
 </div>
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=foxey-07&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=fadrialr&&style=flat-square)  
   
 
 <br/>  
